@@ -1,0 +1,5 @@
+ THis is my first file
+ 
+ https://github.com/git/git/raw/ master/contrib/completion/git-completion.bash,
+ 
+ cd /Applications/MAMP/htdocs/GIT_Study/first_git_project
