@@ -2,4 +2,7 @@
  
  https://github.com/git/git/raw/ master/contrib/completion/git-completion.bash,
  
+ 
+ 
+ This command used in Terminal would take me to my first git project directory
  cd /Applications/MAMP/htdocs/GIT_Study/first_git_project
