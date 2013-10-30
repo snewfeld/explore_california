@@ -1,4 +1,4 @@
- THis is my first file
+ This is my first file
  
  https://github.com/git/git/raw/ master/contrib/completion/git-completion.bash,
  
