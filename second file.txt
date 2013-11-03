@@ -1,1 +1,7 @@
 This is a second file.
+
+I created a git repository on my mac call explore_california
+then I copied it to GITHUB
+then I cloned it to my pc in xamp/htdocs/GIT-study
+
+now I am modifying this file.
